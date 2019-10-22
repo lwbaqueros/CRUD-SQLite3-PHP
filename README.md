@@ -13,3 +13,18 @@ In this repository, you can find the complete project in the following manner:
 You should run this files in a web server. 
 
 I used Xaamp. 
+
+Youtube channel:
+
+https://www.youtube.com/channel/UC86y1m_CNOigTV7sirO-T8Q
+
+Youtube turotial:
+https://www.youtube.com/watch?v=Scq1wkaUAOo&t=245s
+https://www.youtube.com/watch?v=uMU-IeF7RNs&t=14s
+https://www.youtube.com/watch?v=-FzIubWH0Gw&t=391s
+https://www.youtube.com/watch?v=Y2HQ0fHnLKo&t=6s
+https://www.youtube.com/watch?v=dHhGRZu2Vng&t=7s
+https://www.youtube.com/watch?v=Dggn0hkFLaY
+
+
+
